@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# This script retrieves the A record ID for a specific DNS record in a Cloudflare zone.
-# It uses the Cloudflare API to query the DNS records for a given zone and record name.
-
 ZONE_ID="abcdefghijklmnop1234567890qrstuvwxyz" # Replace with your actual zone ID
 RECORD_NAME="panel.example.com" # Replace with the record name you want to query
 
