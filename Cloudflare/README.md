@@ -16,7 +16,7 @@ on Debian/Ubuntu.
 
 ## Security Note
 
-⚠️ The script currently includes placeholder API tokens and IDs. In production:
+⚠️ The scripts currently includes placeholder API tokens and IDs. In production:
 
 - These values should be stored securely.
 
