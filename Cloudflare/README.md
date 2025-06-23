@@ -14,6 +14,12 @@ sudo apt install jq
 
 on Debian/Ubuntu.
 
+## Cloudflare API Key
+
+- [cloudflare-get-record_id.sh](https://github.com/DevSerae/serae-scripts/blob/main/Cloudflare/cloudflare-get-record_id.sh): Ensure your API key for has read permissions for the specified zone.
+
+- [cloudflare-update-records.sh](https://github.com/DevSerae/serae-scripts/blob/main/Cloudflare/cloudflare-update-records.sh): Ensure your API key for has read and write permissions for the specified zone.
+
 ## Security Note
 
 ⚠️ The scripts currently include placeholder API tokens and IDs. In production:
